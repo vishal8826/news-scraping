@@ -1,0 +1,198 @@
+,label,data,x,y
+0,3,donald trump india visit updates us president reaches delhi amid tight security talks narendra modi presidential banquet tomorrows agenda,-0.39088439168860023,0.06304995316405029
+1,3,donald trump india visit updates us president reaches delhi amid tight security talks narendra modi presidential banquet tomorrows agenda,-0.39088439168860506,0.06304995316422735
+2,3,donald trump india visit live updates taj mahal inspires awe says us president,-0.23050181527504995,0.04441477456701553
+3,3,us president india trump melania arrive delhi taj mahal visit,-0.28725867612542516,0.09647386987970155
+4,3,trump visit india could outcomes,-0.15025583205568516,-0.011858443553096908
+5,1,trump govt seems supportive india part indopacific strategy also counting gains,-0.21600542418731722,0.22553909459230956
+6,0,unidentified man waved gun unarmed delhi police officer todays violence,-0.21439990446243576,0.6232163109582912
+7,0,watch man opens fire front cop delhi caa clashes,-0.6491282633612578,0.2941753034120794
+8,0,anti pro caa protesters clashes break delhi tear gas shells lobbed stones pelted,-0.7025107142225241,0.2922781397867144
+9,0,civilian cop killed caa clashes delhi hours trumps arrival points,-0.6218267641909839,0.1987492671616379
+10,0,caa protests live updates policeman among two killed northeast delhi violence,-0.09173479292466039,0.660564119026454
+11,0,delhi violence dmrc opens four metro stations shuts five pink line,-0.4015444145778242,0.6379496675074326
+12,6,china coronavirus outbreak latest updates,0.42981901031984426,-0.138105080804569
+13,6,coronavirus outbreak live updates oman reports first cases virus halts flights iran,0.35720876952055947,-0.10696049526907776
+14,6,new coronavirus cases rise italy korea iran beijing reports zero new cases,-0.22869017098311353,0.42633468105149397
+15,6,people home isolation kerala coronavirus health dept,-0.5913154031501009,-0.4943740510698935
+16,6,south korea biggest coronavirus hotspot outside china,0.6628512191249128,-0.06433748174946208
+17,1,former pm manmohan singh skip presidents banquet trumps honour,-0.4193306633071897,-0.28067910387107964
+18,1,former pm manmohan singh skip banquet donald trump tomorrow,-0.4675843192917478,-0.2439365282942919
+19,1,manmohan singh skip rashtrapati bhavan banquet donald trump,-0.5173872066721088,-0.23402508236849157
+20,3,india reduced lowly buyer congresss manish tewari trumps visit,0.053134289095853396,-0.06496364013254792
+21,1,attend trump event sonia gandhi invited adhir ranjan chowdhury,-0.5052179161567865,0.2356208754746914
+22,0,malaysian pm mahathir submits resignation,-0.4546262327446598,-0.591193188137281
+23,0,malaysian pm mahathir mohamad sends resignation letter king sources,-0.4039775075806203,-0.6532610595491011
+24,0,malaysias mahathir resigns asked stay interim pm,-0.4103547079658192,-0.61264038526421
+25,0,mahathir mohamad malaysian prime minister shock resignation,-0.5021222066391124,-0.5937826624191654
+26,0,turmoil malaysia pm mahathir mohamad submits resignation,-0.44628743742784494,-0.6155077631540222
+27,3,honoured return india ivanka trump tweets ahead visit family,-0.11776873325100544,-0.21407372108454778
+28,3,honoured return india ivanka trump tweets ahead visit family,-0.11776873325100538,-0.214073721084548
+29,3,atithi devo bhava pm modi responds trump hindi tweet india visit,-0.03188514366210707,-0.1442724921750661
+30,3,honoured return ivanka trump tweets ahead india visit family,-0.11776873325100587,-0.21407372108454836
+31,1,twitter comes crashing photo great wall ahmedabad built welcome trump goes viral,-0.11900336297983762,-0.4448660378104508
+32,1,finally donald trump tryst mahatma gandhi,-0.6378411666167155,-0.2113393519283778
+33,0,supreme court last year said disputed site belongs lord ram representational,0.774991932435569,0.09930734943512848
+34,0,mosque hospital library come muslim body accepts ayodhya plot,0.6251811510390496,-0.25127732396667246
+35,0,sunni waqf board accept alternative land near ayodhya offered government,0.6011084159658966,-0.1789975298399321
+36,0,ayodhya case sunni waqf board accepts five acre land allotted govt build mosque,0.4776844115064607,-0.029512864799403817
+37,0,sunni board build mosque hospital acre ayodhya site,0.6845396683094689,-0.14605338123010858
+38,0,sunni waqf board build mosque hospital fiveacre land allotted govt,0.6023936302756554,-0.12723957222098414
+39,6,shaheen bagh interlocutors file report supreme court,0.6052900386495316,0.46699290349676725
+40,0,police anticaa protesters shaheen bagh responsible inconvenience commuters,0.561847767707535,0.4361827531571507
+41,0,road opened near shaheen bagh blocked delhi police protestors,0.4155983763028391,0.3307672853019822
+42,0,shaheen bagh way,0.21497890979017173,0.7533762223335153
+43,0,gapped bridge swaraj kaushal slams shaheen bagh interlocutor,0.2725873780454996,0.7396188705240977
+44,0,officials unaffiliated kochi school arrested students lose chance write th boardofficials unaffiliated kochi school arrested students lose chance write th board news minute,0.5805010760325248,0.21638540537051645
+45,0,officials unaffiliated kochi school arrested students lose chance write th board,0.5756563149772704,0.22295761101269648
+46,0,cbse th physical education exam paper analysis,0.07356785117341742,-0.5633697389723487
+47,0,cbse day lakh students appear physical education language papers,0.004357113726661376,-0.5933547225659637
+48,0,teens write th board kochi unaffiliated school arrangement fails,0.6141599928433685,0.24761989470404044
+49,0,cbse th class english paper sample paper marking scheme,-0.7745023144616956,0.0881552507754444
+50,0,justice arun mishra draws flak praising prime minister,-0.7877226346853768,-0.118281512629282
+51,0,gallery seating capacity created sriharikota witness rocket launches pm modi,0.2162940521588914,-0.03186783731201158
+52,0,pm versatile genius sc judge,0.7063602383461464,0.14874861855708424
+53,5,pm modi calls yearold student inspiration,-0.6533456826303096,-0.02809938452859974
+54,0,pm radio message aiding artisans student life,0.26555680522634284,0.678004131957125
+55,3,delhi police issue traffic advisory ahead us president donald trumps visit today,-0.31862021775935523,-0.06676120447404046
+56,3,delhi police issue traffic advisory ahead us president donald trumps visit today,-0.31862021772859545,-0.06676120445572155
+57,6,ornate private spa food testing lab itc hotels uberluxurious suite host donald trump delhi,-0.6957887297596824,0.09088515308227592
+58,1,president loves crowd size india aims deliver india news,0.00031659572300001416,0.18374183724840065
+59,1,came us indian american trump delegation parents journey,-0.34978138779952306,-0.4738516472208551
+60,1,surprise gift us president donald trump pollachi master tailor,-0.5998359862634349,-0.29338642465253933
+61,3,trump arrival washington monday afternoon visit ashram also known gandhi ashram prime minister narendra modi getty imagesistockphoto,-0.717451213607863,-0.12758997888982934
+62,3,gujarati delicacy khaman added us president donald trump first lady melania hightea menu,-0.3687839315776993,-0.36005275791037716
+63,3,broccoli samosa khaman multigrain rotis trumps menu ahmedabad,-0.614045244607572,0.042935469061145023
+64,3,khaman broccoli samosa donald trumps menu ahmedabad visit,-0.49994098579897406,-0.10697988329498653
+65,3,donald trumps visit khaman samosa kadak chai guests,-0.5167097838427054,-0.05413057530578689
+66,3,platter broccoli samosa special gujarati tea allveg menu awaits trump wife,-0.4660032687814005,-0.442361889378823
+67,6,explained victory nevada puts sanders pole position clinch democratic nomination,0.4246522825854547,-0.6577725094589423
+68,0,nevada caucuses lost,0.6809525605302145,-0.396978892876054
+69,0,bernie sanders wins big nevada democratic rivals tenterhooks,0.7059140626882884,-0.3275707554022987
+70,6,could bernie sanders wrong,0.29299040993283015,-0.7182006431581837
+71,4,bernie sanders landslide nevada win time democrats unite behind,0.34819943310602597,-0.6795290373232151
+72,1,trump sings modis praises massive rally india,-0.5162456783513951,0.09409550926428133
+73,1,donald trump likely bring kashmir narendra modi history tells us path us president advocating doomed,-0.6245963594044909,-0.11548452266772713
+74,0,takers pak kashmir solidarity day,0.14520273069281178,-0.7528599375068418
+75,3,trumps india visit boost defence ties pakistan relevant analysis,-0.07707086533906381,0.08833899680147933
+76,6,taking stock coronavirus worries fuel global selloff investors lose rs lk cr,0.3360811593696993,-0.24535595412367184
+77,6,sensex plunges points coronavirus scare factors behind market fall,-0.17526900925449843,0.4588463406068247
+78,0,sensex crashes points nifty ends points,-0.7321708657232595,0.23321617331950031
+79,6,sensex plunges points amid coronavirus scare,0.3496934122322129,0.10289043757477333
+80,6,things need know opening bell february,-0.6677382096049387,-0.413499709531297
+81,1,mukesh ambani said india soon among top three economies world file,-0.06835554312371521,0.3362135050281049
+82,1,donald trump see different india barack obama others mukesh ambani,-0.32857030073361654,-0.2134806438537932
+83,1,rilmicrosoft partnership define decade mukesh ambani satya nadella,-0.6882575579290272,-0.3495743804718164
+84,0,important execs microsoft satya nadella,0.18320064337640732,-0.39181207838939747
+85,3,nadella would happy trump overshadow india visit,-0.06439399454486171,-0.03663142659414197
+86,1,microsoft ceo satya nadella met mukesh ambani,0.01577327755835074,-0.4527374101345816
+87,0,dot asks telcos documents supporting agr math,-0.4054786985580762,0.5474158228533423
+88,0,agr issue nobody wants kill telecom sector says state bank chief,0.25015082663784244,-0.6264708629816338
+89,0,agr dues govt asks bharti airtel vodafone idea submit selfassessment supporting documents,-0.5412988877149251,-0.5236459742526179
+90,0,network coverage area,0.20679788007945046,-0.7539571580761966
+91,0,agr issue nobody wants kill telecom sector says sbi chief,0.23638130298774693,-0.6268547749323368
+92,6,coronavirus could impact indian economy financial markets,-0.31157102590370434,0.4352104866431312
+93,0,rupee opens paise lower per dollar,-0.4758149052669989,0.58392957935555
+94,0,rupee slides paise month low us dollar,-0.02470429635935767,0.7765501928983833
+95,0,stocks gain strength rupee hits week low,-0.07031003516520619,-0.7014267253724068
+96,0,realmes x pro cheaper g flagship superfast charging,0.4421813747613213,0.4560728563131501
+97,1,realme x pro g launch india today expected price specifications watch live stream,0.21258773681445428,0.504215636646889
+98,0,realme x pro g officially launched hz display w superdart charging,-0.6958951572456149,-0.23459195101055638
+99,0,realme x pro g debuts sd w charging six cameras gsmarenacom news,0.4657045269904042,0.39430247165917615
+100,1,realme x pro g dual selfie cameras snapdragon soc launched price india specifications,0.29283486139003184,0.502994317717705
+101,6,arent getting galaxy,0.7326851504411978,0.2877564930048132
+102,0,top trending phones week gsmarenacom news,0.5069625525645253,-0.3519996505466713
+103,4,iphone vs galaxy ultra apple beat samsungs cameras,0.5568191299557307,0.5138741122020044
+104,1,samsung galaxy series launched india starting price rs sale begins march,0.1804772646941212,0.6226947268439231
+105,1,samsung galaxy goes sale starting today india specifications price features,0.1977112389251269,0.5804392484972494
+106,6,mi mix alpha coming xiaomi stores cities need know,-0.263508586571774,-0.6952013954060977
+107,0,xiaomi mi mix appears online could real,-0.2959036800640312,-0.6884821701350495
+108,1,confirmed xiaomi mi mix alpha featuring mp camera full glass body launching soon india,-0.29557231495195535,0.2640935109598586
+109,1,xiaomi mi mix alpha coming india soon biggest hint yet,-0.2067557341287701,-0.6020081685685855
+110,6,xiaomi mi mix alpha finally hit stores,-0.23928974648995077,-0.6835693883439417
+111,1,nokia pureview gets massive price cut check latest price specs,0.08039202026492455,0.7499106202003344
+112,1,nokia pureview price india slashed rs listed rs,0.10748865212421671,0.6738773409777822
+113,1,nokia pureview gets price cut india much costs,0.06699406564570388,0.7091127587596419
+114,1,nokia pureview price india slashed rs officially,0.09160003787632474,0.6586305810295777
+115,6,screengrab video posted ranveer singh image courtesy ranveersingh,0.48130270786060897,0.12987943960217233
+116,6,sooryavanshi aa rahi hai police announce akshay kumar ajay devgn ranveer singh,0.29845631761599606,0.19198938411936287
+117,6,watch akshay kumar ajay devgn ranveer singh announce new release date sooryavanshi traile,-0.07197896835283635,0.5214978386528613
+118,0,akshay kumar collaborate ekta kapoor seven years,-0.7379564532006168,0.17715041752032845
+119,6,akshay kumar sooryavanshi release march mumbai theatres go x ranveer singh ajay,-0.006910243680533707,0.5525136165327154
+120,0,ajay devgn shares sooryavanshis new release date kavita kaushik objects dont like believe police anymore,-0.11307433108215373,0.5947524405890754
+121,0,shubh mangal zyada saavdhan box office collection day ayushmann khurranas film reaches total r,0.45024635781635985,0.5677830135166104
+122,1,ayushmann khurrana responds donald trump comment shubh mangal zyada saavdhan,0.1411574759058292,0.09923982559118476
+123,0,golden run continues young star despite picking taboo subject,-0.7655115604253011,-0.2314452100144416
+124,0,shubh mangal zyada saavdhan reasons ayushmann khurrana jitendra kumar starrer one best films homosexuality,0.503254819633971,0.5683072742996756
+125,0,ileana dcruzs latest vacay pics want pack bags travel,-0.24285711344528807,0.736836746776355
+126,0,box office shubh mangal zyada savdhan bhoot haunted ship work well target audience sunday updates,0.35876898524467393,0.6478077666982486
+127,0,bhoot haunted ship box office collection day rs crore vicky kaushals film doesnt make desired noise,0.4009558918298209,0.6356782761644398
+128,4,shubh mangal zyada saavdhan vs bhoot box office battle ayushmann khurranas film emerges clear winner,0.46107575900656284,0.5924093439845789
+129,0,mensxp honest review bhoot part one haunted ship freshly packaged familiar horror,-0.3063183788697737,0.7217007595439262
+130,0,bhoot part one haunted ship box office collection day vicky kaushals horror flick mints anothe,0.3970439720290871,0.6629289435816713
+131,0,taapsee pannu shared image r sonam kapoor shared image l image courtesy sonamkapoor,0.6514336515243918,-0.33805586236414575
+132,0,sonam kapoor really likes taapsee pannu see twitter exchange,0.564661630312542,-0.5055902978208957
+133,0,taapsee pannu gets candid news,0.5837634512793886,-0.39711164149652484
+134,0,line choked taapsee pannu every time thappad sets reminded mother,0.38841049412264195,-0.6301176334110437
+135,0,sonam kapoor calls thappad actress taapsee pannu clutter breaker latter say,0.5470305373903284,-0.4667482429983604
+136,6,thappad director anubhav sinha longer aiming rs crore box office,0.6704257944128832,0.31012792932388245
+137,1,india women vs bangladesh women live score icc women world cup upbeat india enter contest favourites bangladesh,0.1652757636770101,0.3427988592206983
+138,1,india women vs bangladesh women highlights icc women world cup india win runs,0.1553272653773307,0.30028197231297993
+139,1,india women vs bangladesh women highlights womens world cup india beat bangladesh runs,0.1745798922095961,0.30737625849935496
+140,4,post match press conference england vs south africa icc womens world cup,0.3180909650985905,0.3531016891680086
+141,1,india vs bangladesh highlights womens world cup india thrash bangladesh runs nd win tournament,0.17075789556624982,0.25460695736700223
+142,1,womens world cup heres smriti mandhana playing,0.10891707524579142,0.4384574013257574
+143,0,ole gunnar solskjaer says team spirit key success,-0.1831947384656766,0.7604738081497776
+144,4,conquer place fernandes harbours champions league dreams first man utd goal,-0.3240360177065433,0.6628439390258328
+145,4,manchester uniteds bruno fernandes earns scoring first goal club vs watford,-0.31161876917157083,0.597606386481985
+146,4,bruno fernandes said jorginhostyle penalty,0.44854100597756114,-0.2682390483520992
+147,4,fernandes massive impact martial unbelievable quality shaw hails man utd duo,-0.14655304348504652,-0.7267399628463731
+148,2,zimbabwe reeling rahims recordbreaking double ton cricbuzz,0.07442386744600578,-0.7669827833170402
+149,2,bangladesh mushfiqur rahim hits double ton corner zimbabwe,0.37164707611218734,-0.3825043614081507
+150,2,bangladesh dominant dhaka rahim double ton,0.7251075467857125,0.02828684240578299
+151,0,assurances chances boost shantos performances,0.755468289087962,0.19210027277144542
+152,2,twin tons leave zimbabwe deflated cricbuzz,-0.029482067191732398,-0.7792080324464737
+153,1,us president donald trumps pronunciation names indian cricket greats lights social media,-0.5195056745648301,-0.347285326589974
+154,1,bollywood bhangra virat kohli sachin tendulkar highlights trumps speech motera stadium,-0.19255924329836813,-0.4731631160029061
+155,3,trump gives special shout sachin tendulkar virat kohli trump india visit namaste trump,-0.24457137539068877,-0.23129766143777075
+156,0,sachin tendulkar breaks silence icc u world cup final,-0.2546983514553014,-0.52989390348151
+157,1,vivekamanan vestas twitter rofl trump pronunciations,-0.5952026527379463,-0.41586764336640003
+158,0,nasa scientists spot water jupiters atmosphere,0.11231652221554851,-0.41553329093073765
+159,0,turns jupiter far water atmosphere thought,-0.42080698690926205,0.4148308404698455
+160,0,surprise theres water jupiter anyone thought,-0.5739792412365469,0.29389733164995996
+161,0,nasa solves jupiters water mystery,-0.08239114162950999,-0.59907611905352
+162,4,researchers find secret achieve goals,-0.6482823389352226,0.4123545215103292
+163,4,psychologists discover key achieving goals,-0.6029317019342476,0.4746859421503737
+164,4,fail reach goals brains begin one focus closing deal requires another study suggests,-0.07836720413483551,0.7699939299236457
+165,4,secret achieving goals,-0.6423305538591205,0.4291928556684526
+166,4,psychologists discover new secret achieving ones goals,-0.5970613046010091,0.44828005960367573
+167,0,nasa calls astronauts artemis programme,0.3483888585821776,-0.4986502721987231
+168,0,dream job nasa hiring new astronauts moon mission,-0.1368378852367017,0.7097189271502743
+169,0,vice president pence visits langley artemis update week nasa february,0.10585700176844655,-0.27641185676875835
+170,0,nasa recruiting astronauts two basic requirements apply,0.6492260918002762,0.3954187579693855
+171,0,oped nasa need another space assignment,0.6699829656656702,0.3495465070785991
+172,5,frozen bird found siberia yearold researchers republic world,-0.7258914179657717,-0.034880918584246065
+173,5,exceptionally wellpreserved bird found siberia actually years old,0.7771532453066595,-0.007794936149081351
+174,5,frozen bird found yearold horned lark,0.08710243258641683,-0.6767156286181033
+175,5,wellpreserved yearold bird tricks scientists believing died day ago,0.6080582029624256,0.020169465838414172
+176,5,yearold frozen horned lark bird found siberia,0.09372089849275285,-0.6670166930325017
+177,6,wuhan scraps easing quarantine hours announcing could leave,0.47136516648951826,-0.5875830351218994
+178,6,virus epicentre wuhan revokes announcement easing lockdown,0.49660129540483194,-0.5523466357072222
+179,6,another wuhan doctor dies coronavirus shine news,0.6391855595821085,0.06923608583075237
+180,6,coronavirus epicentre wuhan revokes announcement easing lockdown,0.4752037674127207,-0.5239877764921442
+181,0,chinese designers buyers sit paris fashion week virus outbreak hits luxury sales,0.7221625117800088,-0.2346450579780436
+182,6,coronavirus complete guide global covid outbreak,0.7508406705481296,-0.15598656798938249
+183,6,coronavirus may disease x health experts warned,0.7493735131230032,-0.06340276568222415
+184,6,coronavirus originate america chinese media pushes conspiracy,0.23791748727432802,-0.502432384016032
+185,6,coronavirus may leaked chinas highest biosafety lab,0.32410440969912,-0.40676118347181855
+186,6,ai platform discovers new powerful antibiotic,-0.4743419469031433,0.4542843632451306
+187,6,us researchers use ai develop powerful new antibiotic jakarta post,-0.49301822070750967,0.3975978917597987
+188,6,ai system discovers powerful new antibiotic tackle superbugs,-0.10631353456273146,0.3347281228302918
+189,6,ai offers new hope defeating superbugs,0.213464239989246,-0.12270728178731839
+190,6,artificial intelligence algorithm creates antibiotic effective drug resistant bacteria,-0.47249012682246616,0.6307709987088012
+191,6,china allows nonresidents wuhan leave epicenter covid,0.6209649131662633,-0.4617602835450194
+192,0,fact check br ambedkars greatgrandson mistakes cattle breed caste,-0.1876286995924754,-0.7692110189252387
+193,6,video circulated media reports since least october months novel coronavirus outbreak,0.49400375239125216,-0.03478157999911542
+194,0,indian media fooled nation massive discovery gold reserves,-0.77996789444799,0.027645411970808886
+195,6,much indian media misreported tonnes gold found mine,-0.5496171139158004,0.5275766173364929
+196,0,bill gates pen list life lessons high school kids,0.004542780011244241,-0.7603569398662919
